@@ -13,12 +13,13 @@ Hi all! 👋 I thought it could be interesting to share the code I'm using to so
 | Stat | Value 
 |-|-|
 | Level | 0
-| Problems solved | 8
+| Problems solved | 10
 | Highest difficulty solved | 5%
 
-| Awards 
+| Awards
 |-|
-|[![Award: Baby Steps](https://projecteuler.net/images/awards/award_01.png)](https://projecteuler.net/award=1)
+|[![Award: Baby Steps](https://projecteuler.net/images/awards/award_01.png)](https://projecteuler.net/award=1) | 
+[![Award: Decathlete](https://projecteuler.net/images/awards/award_03.png)](https://projecteuler.net/award=3)
 
 ## 🤗 Friend key 🥰
 
